@@ -284,6 +284,8 @@ color: red;
 
 
 @media screen and (max-width: 576px) {
+  p{font-size:18px;}
+    
  .hero_sec .left_part{width: 100%;}
  .hero_sec .right_part{width: 100%; margin-top:50px;}
 .hero_sec .hero-content-left{max-width: 100%; padding-right: 0;}

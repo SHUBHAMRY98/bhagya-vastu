@@ -1,14 +1,14 @@
 
 * {margin: 0;padding: 0;box-sizing: border-box;}
 img {max-width: 100%;height: auto;}
-body {background: #ffffff;font-size:20px;color: #000000;  font-weight: normal;}
+body {background: #ffffff;font-size:20px;color: #000000;  }
 p{ margin-bottom:35px; line-height: 23px;}
 p:last-child{ margin-bottom: 0;}
 a {color: inherit;}
 
 /* ----- Heading Font CSS ------ */
 
-/* h1,h2,h3,h4,h5,h6 {margin-bottom: 35px;line-height: 1; font-family: 'lufgasemibold'; font-weight: normal; }
+/* h1,h2,h3,h4,h5,h6 {margin-bottom: 35px;line-height: 1;}
 h1{font-size:176px; position: relative;}
 h2{font-size:64px;}
 h3{font-size:48px;}

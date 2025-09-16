@@ -284,6 +284,24 @@ color: red;
 
 
 @media screen and (max-width: 576px) {
+
+   body {
+    font-size: 18px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
   .hero_sec .hero-content-left h1{
   font-size: 40px;
 }

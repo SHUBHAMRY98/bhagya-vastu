@@ -1,7 +1,7 @@
 @import url(../font/stylesheet.css);
 * {margin: 0;padding: 0;box-sizing: border-box;}
 img {max-width: 100%;height: auto;}
-body {background: #ffffff;font-size:16px;color: #000000; font-family: 'lufgaregular'; font-weight: normal;}
+body {background: #ffffff;font-size:20px;color: #000000; font-family: 'lufgaregular'; font-weight: normal;}
 p{ margin-bottom:35px; line-height: 23px;}
 p:last-child{ margin-bottom: 0;}
 a {color: inherit;}

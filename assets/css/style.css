@@ -99,7 +99,7 @@ h3{font-size:30px; margin-bottom: 25px;}
 .essential_sec{position:relative;}
 
 .essential_sec .wrapper{width: 1200px;}
-.essential_sec .inner_part{display: flex; flex-wrap: wrap; justify-content: space-between;align-items: center; padding: 60px 0;}
+.essential_sec .inner_part{display: flex; flex-wrap: wrap; flex-direction: column-reverse; justify-content: space-between;align-items: center; padding: 60px 0;}
 .essential_sec .left_part{width: 35%;}
 .essential_sec .right_part{width: 65%; padding-left: 100px;}
 .essential_sec img{border-radius: 10px; display:block;}
